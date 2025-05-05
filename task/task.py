@@ -1,6 +1,10 @@
 # Write your code below this line 👇
+
+#New Lines
 print("Hello World!\n\nHello world!\n\nHello world!\n")
 
+#Concatenation
+print("Hello" + " Jesse!\n")
 
 #Convert these to strings:
 print("1. Mix 500g of Flour, 10g Yeast and 300ml Water in a bowl.")
