@@ -1,6 +1,4 @@
-userName = input("What is your name?\n")
+name = input("What is your name?")
+chars = len(name)
+print("Your name is " + name + " and that is " + str(chars) + " characters long!")
 
-#Best if say your name is Jeff.
-print("My name is" + " " + userName + "!!")
-
-print("Hello " + input("What is your name?") + "!")
